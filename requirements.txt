@@ -1,0 +1,30 @@
+# Core framework dependencies
+gradio>=4.0.0
+langgraph>=0.1.0
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-groq>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.1.0
+langchain-experimental>=0.1.0
+
+# Web automation and browser tools
+playwright>=1.40.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# Data handling and validation
+pydantic>=2.0.0
+typing-extensions>=4.8.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Optional tools and utilities
+wikipedia>=1.4.0
+
+# Development dependencies (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
